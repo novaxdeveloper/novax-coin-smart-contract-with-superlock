@@ -1,0 +1,26 @@
+{
+  "name": "novax-coin-smart-contract-with-superlock",
+  "version": "1.0.0",
+  "description": " Novax Coin Smart Contract With SuperLock",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novaxdeveloper/novax-coin-smart-contract-with-superlock.git"
+  },
+  "keywords": [
+    "novaxcoin",
+    "smartcontract"
+  ],
+  "author": "NovaxCoin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novaxdeveloper/novax-coin-smart-contract-with-superlock/issues"
+  },
+  "homepage": "https://github.com/novaxdeveloper/novax-coin-smart-contract-with-superlock#readme"
+}
