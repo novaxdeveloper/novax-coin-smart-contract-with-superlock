@@ -22,5 +22,25 @@
   "bugs": {
     "url": "https://github.com/novaxdeveloper/novax-coin-smart-contract-with-superlock/issues"
   },
-  "homepage": "https://github.com/novaxdeveloper/novax-coin-smart-contract-with-superlock#readme"
+  "homepage": "https://github.com/novaxdeveloper/novax-coin-smart-contract-with-superlock#readme",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "ethereumjs-abi": "^0.6.8",
+    "chai": "^4.2.0",
+    "chai-bignumber": "^3.0.0",
+    "eslint": "^5.13.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "eth-gas-reporter": "^0.1.12",
+    "ethlint": "1.2.3",
+    "ganache-cli": "6.3.0",
+    "solidity-coverage": "0.6.0-beta.3",
+    "surya": "0.2.8"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
 }
