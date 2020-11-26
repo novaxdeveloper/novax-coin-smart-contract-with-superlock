@@ -1,4 +1,4 @@
-# Smart Contract ERC20 For Kugula coin with stake 
+# Novax Coin Smart Contract With Superlock
 
 [![N|Solid](https://novaxcoin.com/logo-icon.png)](#)
 
