@@ -58,13 +58,11 @@ $ truffle deploy
 > You must learn nodejs to test your smart contract as you want in localhost.\
 > You can use https://remix.ethereum.org/ in your browser to edit or deploy smart contract online.
 
-We recommend watching these videos to learn solidity language, blockching, ethereum, truffle and smart contract
 
-- https://www.youtube.com/watch?v=CgXQC4dbGUE&t=7570s&ab_channel=DappUniversity
-- https://www.youtube.com/watch?v=nRySHw123x8&t=841s&ab_channel=Blockgeeks
-- https://www.youtube.com/watch?v=_rumMSlrmiI&ab_channel=DappUniversity
-- https://www.youtube.com/watch?v=XcFl8fj-_ZU&t=263s&ab_channel=FilipMartinsson
-- https://www.youtube.com/watch?v=WyDrj8jrEjQ&t=732s&ab_channel=DappUniversity
+## You can review Novax wallet project 
 
+[![N|Solid](https://novaxcoin.com/wallets/wallet-3.png)](#)
+[![N|Solid](https://novaxcoin.com/wallets/wallet-2.png)](#)
+[![N|Solid](https://novaxcoin.com/wallets/wallet-1.png)](#)
 
 
