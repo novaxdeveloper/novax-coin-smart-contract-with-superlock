@@ -61,8 +61,8 @@ $ truffle deploy
 
 ## You can review Novax wallet project 
 
-[![N|Solid](https://novaxcoin.com/wallets/wallet-3.png)](#)
-[![N|Solid](https://novaxcoin.com/wallets/wallet-2.png)](#)
-[![N|Solid](https://novaxcoin.com/wallets/wallet-1.png)](#)
+[![N|Solid](https://novaxcoin.com/wallet/wallet-3.png)](#)
+[![N|Solid](https://novaxcoin.com/wallet/wallet-2.png)](#)
+[![N|Solid](https://novaxcoin.com/wallet/wallet-1.png)](#)
 
 
