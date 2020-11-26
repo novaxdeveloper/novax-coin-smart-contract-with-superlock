@@ -1,4 +1,4 @@
-# Novax Coin Smart Contract With Superlock
+# Novax Coin Smart Contract With SuperLock
 
 [![N|Solid](https://novaxcoin.com/logo-icon.png)](#)
 
