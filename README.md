@@ -24,7 +24,7 @@ $ npm i truffle -g
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd kugulacoin-smart-contract-with-stake
+$ cd novax-coin-smart-contract-with-superlock
 $ npm install 
 ```
 
@@ -42,9 +42,9 @@ Now Set MNEMONIC it's mean your private key or MNEMONIC for your wallet you want
 Now edit ./truffle-config.js
 
 > Change your networks as want to deploy your contract
-> 1. Localhost useing ganache https://www.trufflesuite.com/ganache
+> 1. etherscan.io as main network  https://main.infura.io/v3/
 > 2. Ropsten.etherscan.io as test network https://ropsten.infura.io/v3/
-> 3. etherscan.io as main network  https://main.infura.io/v3/
+> 3. Localhost useing ganache https://www.trufflesuite.com/ganache
 
 ## Deploy your smart contact now
 
