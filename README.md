@@ -10,7 +10,7 @@ Smart Contect ERC20 ethereum using openzeppelin-contracts.
 
   - Stake system.
   - Monthly reawrd.
-  - Owner Can change the Monthly reawrd rate.
+  - Owner Can change the Monthly reward rate.
 
 
 ## Before run Project 
