@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) 
 
-Smart Contect ERC20 ethereum using openzeppelin-contracts. 
+Smart Contect TRC20 ethereum using openzeppelin-contracts. 
 
 ## Features
 
